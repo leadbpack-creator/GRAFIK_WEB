@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 
-st.title("Chainring Design Generator")
+st.title("Chainring Design")
 
 # Buat 2 kolom untuk input x_min dan x_max
 col1, col2, col3 = st.columns(3)
