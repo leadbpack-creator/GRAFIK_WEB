@@ -1,0 +1,15 @@
+# Abaikan virtual environment
+venv/
+.venv/
+
+# Abaikan cache python
+__pycache__/
+*.pyc
+
+# Abaikan file environment rahasia
+.env
+secrets.json
+
+# Abaikan file editor / OS
+.DS_Store
+.vscode/
